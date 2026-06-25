@@ -1,5 +1,5 @@
 ---
-title: "Evelia Coss"
+title: "Daniel Desposorio"
 image: "yo_azul.jpg"
 links:
   - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
