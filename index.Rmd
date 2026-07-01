@@ -1,6 +1,6 @@
 ---
 title: "Daniel Desposorio"
-image: "yo_azul.jpg"
+image: "Foto_DANIEL.jpeg"
 links:
   - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
     url: "https://www.linkedin.com/in/daniel-alejandro-d-a4333b199/"
@@ -9,11 +9,11 @@ links:
   - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
     url: "https://github.com/daniel982726"
   - label: '`r fontawesome::fa(name = "researchgate", fill = "steelblue")` ResearchGate'
-    url: https://www.researchgate.net/profile/Evelia-Coss-Navarrete  
+    url: https://www.researchgate.net/profile/Daniel-Desposorio-Vicente?ev=hdr_xprf
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
-    url: "mailto:ecossnav@gmail.com"
+    url: "mailto:daniel982726@gmail.com"
   - label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
-    url: "https://eveliacoss.github.io/CV/cv_ECoss.html"
+    url: 
 output:
   postcards::jolla
 ---
