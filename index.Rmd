@@ -13,7 +13,7 @@ links:
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
     url: "mailto:daniel982726@gmail.com"
   - label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
-    url: 
+    url: https://github.com/daniel982726/daniel982726.github.io/blob/f9af8037f4c3366dbe2f637c5c7aae315130fbc6/CV_DANIEL.pdf
 output:
   postcards::jolla
 ---

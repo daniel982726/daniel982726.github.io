@@ -1,0 +1,10 @@
+---
+title: "CV"
+output: 
+  html_document:
+    css: styles.css
+date: "2026-07-01"
+---
+```{r, results='asis', echo=FALSE}
+cat('<iframe src="CV_DANIEL.pdf#toolbar=0&navpanes=0&zoom=page-fit" width="100%" height="100%" style="border:none; position:fixed; top:0; left:0; right:0; bottom:0;"></iframe>')
+```
