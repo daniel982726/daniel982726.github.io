@@ -9,11 +9,11 @@ links:
   - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
     url: "https://github.com/daniel982726"
   - label: '`r fontawesome::fa(name = "researchgate", fill = "steelblue")` ResearchGate'
-    url: https://www.researchgate.net/profile/Daniel-Desposorio-Vicente?ev=hdr_xprf
+    url: "https://www.researchgate.net/profile/Daniel-Desposorio-Vicente?ev=hdr_xprf"
   - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
     url: "mailto:daniel982726@gmail.com"
   - label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
-    url: https://daniel982726.github.io/CV.html
+    url: "https://daniel982726.github.io/CV.html"
 output:
   postcards::jolla
 ---
