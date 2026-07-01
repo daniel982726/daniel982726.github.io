@@ -22,24 +22,24 @@ output:
 library(fontawesome)
 ```
 
-#### **Bio**
+#### About me
 
-I am interested in gene regulation, lncRNAs, autoimmune disease, evolution and bioinformatics.
-
-Founding member of VieRnes de Bioinformatica en el LIIGH (bioinformatics fridays at \@[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM)) \| web page: <https://viernesbioinformatica.github.io/> \| Github: [ViernesBioinfo2023_parte0](https://github.com/EveliaCoss/ViernesBioinfo2023); [ViernesBioinfo2024_parte1](https://github.com/EveliaCoss/ViernesBioinfo2024); [ViernesBioinfo2024_parte2](https://github.com/EveliaCoss/ViernesBioinfo2024_parte2); [ViernesBioinfo2025_parte4](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte4); [ViernesBioinfo2025_parte3](https://github.com/VieRnesBioinformatica/ViernesBioinfo2025_parte3); [ViernesBioinfo2026_parte5](https://github.com/VieRnesBioinformatica/ViernesBioinfo2026_parte5)
+Biologist with a strong research interest in cancer genomics, transcriptomics, and precision oncology. Passionate about applying genomics and bioinformatics to investigate the molecular mechanisms underlying cancer development and progression, with a particular focus on gene regulation, aberrant gene expression, and the activation of oncogenic pathways that drive tumor initiation and progression.
 
 #### **Education**
 
-**Postdoctoral Fellowship** \| \@[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM) \| February 2023 - May 2026
-
-**PhD in Plant Biotechnology** \| \@[Cinvestav UGA-Langebio](https://twitter.com/uga_langebio), Mexico \| August 2018 - January 2023
+B.Sc. in Biology \| National University Federico Villarreal, Peru \| April 2019 – January 2024
 
 #### **Experience**
 
-Member of the \@[R-ladies Morelia](https://www.facebook.com/profile.php?id=100093337606435), \@[RIABIO](https://twitter.com/RiaBioNet), \@[CDSB Mexico](https://twitter.com/CDSBMexico) and \@[ISCB RSG-Mexico](https://x.com/rsg_iscb_mexico?lang=es).
+- **Bioinformatics Research Intern** \| International Laboratory for Human Genome Research (LIIGH-UNAM) \| Querétaro, Mexico \| **2026**\
 
-#### **Repository Contributions**
+  Applied bioinformatics approaches for the analysis and interpretation of genomic data in cancer research.
 
-Webpage [Plants&Python](https://plantsandpython.github.io/PlantsAndPython/00_Opening_page.html) \| Github [Plants&Python](https://github.com/PlantsAndPython/PlantsAndPython) \| Dr. Daniel H. Chitwood, Dr. Robert VanBuren and Alejandra Rougon-Cardoso
+- **Standardization and Validation of Multiplex Real-Time PCR for the Detection of Antimicrobial Resistance Genes** \| National Institute of Health (INS) \| Lima, Peru \| **2024**\
 
-[Transcriptome-guided annotation and functional classification of long non-coding RNAs in Arabidopsis thaliana](https://pubmed.ncbi.nlm.nih.gov/35982083/) \| Github [Transcriptome-guided_lncRNA_annotation](https://github.com/RegRNALab/Transcriptome-guided_lncRNA_annotation) \| Dr. \@[Selene Fernandez-Valverde](https://twitter.com/SelFdz)
+  Contributed to the optimization and validation of multiplex qPCR assays for the detection of clinically relevant antimicrobial resistance genes.
+
+- **Quantification of Pathogens and Correlation with the Relative Abundance of Antimicrobial Resistance Genes in Chicken Carcasses** *(Undergraduate Thesis)* \| Biochemistry and Molecular Biology Laboratory, National University Federico Villarreal \| Lima, Peru \| **2024**\
+
+  Conducted microbiological, molecular, and statistical analyses to evaluate the relationship between foodborne pathogens and antimicrobial resistance gene abundance in poultry samples.
